@@ -6,7 +6,8 @@
 
 I really enjoyed this project. I got to lean into my knowledge of python and expand it further. I really like learning and using the new code learned in class. Below is a list of all the resources I used to help me complete this assignment.
 
-<u> Resources Used </u>
+Resources Used
+_______________
 * ChatGPT
 * Xpert Learning Assistant
 * Ask BCS Learning Assistant
